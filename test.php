@@ -1,7 +1,2 @@
 <?php
-
-print_r('hello world');
-
-print_r('hello world 1');
-
-?>
+print_r('sfsdfsfs');
